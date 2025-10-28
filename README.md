@@ -1,3 +1,22 @@
+# Graph Pic — Vue Starter
+
+This repository was reset to a minimal Vue + Vite scaffold with Prettier configured.
+
+How to run
+
+```cmd
+npm install
+npm run dev
+```
+
+Project structure
+
+- `index.html` — app entry
+- `src/main.js` — Vue entry
+- `src/App.vue` — starter component
+- `src/assets/main.css` — base styles
+- `.prettierrc` — Prettier config
+
 # graph-pic
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -9,7 +28,7 @@ This template should help get you started developing with Vue 3 in Vite.
 ## Recommended Browser Setup
 
 - Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
+  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
   - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
 - Firefox:
   - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
